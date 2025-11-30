@@ -1,0 +1,12 @@
+gender,SeniorCitizen,Partner,Dependents,tenure,PhoneService,MultipleLines,InternetService,OnlineSecurity,OnlineBackup,DeviceProtection,TechSupport,StreamingTV,StreamingMovies,Contract,PaperlessBilling,PaymentMethod,MonthlyCharges,TotalCharges,predicted_churn,churn_probability,pred_time
+Male,0,Yes,Yes,12,Yes,No phone service,DSL,No internet service,No internet service,No internet service,No internet service,No,No,Month-to-month,Yes,Electronic check,70.0,1000.0,0,0.250219096650554,2025-11-29 13:54:52
+Male,0,Yes,No,5,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.5,450.0,1,0.9012406451201608,2025-11-29 13:59:09
+Female,1,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,89.3,120.0,1,0.9592722202731409,2025-11-29 13:59:09
+Female,0,Yes,Yes,32,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),56.8,1800.2,0,0.05531989744822902,2025-11-29 13:59:09
+Male,0,No,No,12,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,25.4,350.5,0,0.05161209974085366,2025-11-29 13:59:09
+Male,1,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.2,198.0,1,0.9393455437011059,2025-11-29 13:59:09
+Male,0,Yes,No,5,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,95.5,450.0,1,0.9012406451201608,2025-11-29 14:00:29
+Female,1,No,No,1,Yes,No,Fiber optic,No,No,Yes,No,No,No,Month-to-month,Yes,Electronic check,89.3,120.0,1,0.9592722202731409,2025-11-29 14:00:29
+Female,0,Yes,Yes,32,Yes,Yes,DSL,Yes,No,Yes,Yes,Yes,Yes,Two year,No,Credit card (automatic),56.8,1800.2,0,0.055319897448229016,2025-11-29 14:00:29
+Male,0,No,No,12,No,No phone service,No,No internet service,No internet service,No internet service,No internet service,No internet service,No internet service,One year,No,Mailed check,25.4,350.5,0,0.051612099740853665,2025-11-29 14:00:29
+Male,1,No,No,2,Yes,No,Fiber optic,No,No,No,No,Yes,Yes,Month-to-month,Yes,Electronic check,99.2,198.0,1,0.9393455437011059,2025-11-29 14:00:29
